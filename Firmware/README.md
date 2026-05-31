@@ -8,4 +8,5 @@ Libraries:
 
 I2C:
 BNO055 SDA → D4
+
 BNO055 SCL → D5
