@@ -7,6 +7,5 @@ Libraries:
 - WebServer
 
 I2C:
-BNO055 SDA → D4
-
-BNO055 SCL → D5
+- BNO055 SDA → D4
+- BNO055 SCL → D5
